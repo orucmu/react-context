@@ -1,0 +1,13 @@
+.app {
+  height: 100vh;
+}
+
+.app.dark {
+  color: white;
+  background-color: #282c34;
+}
+
+.logoutbtn {
+  background-color: red;
+  color: white
+}
